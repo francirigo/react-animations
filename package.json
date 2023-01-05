@@ -6,7 +6,7 @@
     "rc-tween-one": "^2.4.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "0.9.x",
+    "react-scripts": "5.0.x",
     "styled-components": "^5.0.0-beta.6"
   },
   "devDependencies": {},
